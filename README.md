@@ -29,7 +29,7 @@ users to explore the wonders of the galaxy through captivating animations.
 
 
 
-https://github.com/user-attachments/assets/a9220cda-d04f-42f1-8cde-a80898873499
+https://github.com/user-attachments/assets/62ddb6a8-27da-473a-abd6-714b2def7de7
 
 
 ## Installation
