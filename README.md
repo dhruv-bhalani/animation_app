@@ -40,4 +40,4 @@ https://github.com/user-attachments/assets/62ddb6a8-27da-473a-abd6-714b2def7de7
 
 2. **Flutter SDK Version**:
    ```bash
-   3.22.2 https://docs.flutter.dev/release/archive
+   3.24.4 https://docs.flutter.dev/release/archive
